@@ -1,0 +1,20 @@
+.personal_data_category{
+  background-color: #FFFFFF;
+  border:none;
+  /*border-top-style: none;*/
+  overflow: hidden;
+ 
+  width: auto;
+  height: auto;
+  margin-bottom: 5px;
+ 
+}
+.portrait_center{
+
+    text-align: center;
+}
+
+.portrait_text{
+
+    font-size: 10px;
+}

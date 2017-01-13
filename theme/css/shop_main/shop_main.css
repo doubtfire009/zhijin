@@ -1,0 +1,76 @@
+.border_color_solid_grey
+{
+    border:1px solid #E0E0E0;
+}
+
+.person-data-board {
+  background-color: #E0E0E0;
+  border:1px solid #E0E0E0;
+  overflow: hidden;
+  width: 240px;
+  height: 440px;
+  padding: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 8px; 
+  
+}
+.person-data-board_upper {
+    background-color: #34495e;
+    /*background-color: #80FFFF;*/
+    height: 300px;
+    border-radius: 8px; 
+}
+
+.person-data-board_lower {
+/*    background-color: #34495e;*/
+    /*background-color: #E0E0E0;*/
+    height: 75px;
+    padding: 3px;
+
+}
+
+.person-data-board_text{
+    text-align: center; 
+    color: #ffffff;
+    /*color: #000000;*/
+    font-size: 15px;
+}
+
+.person-data-board-author {
+  /*background: url(../img/person-data-board-author.jpg) center no-repeat;*/
+  border: 3px solid #ffffff;
+  display: block;
+  height: 50px;
+  margin: 0 auto;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.person-data-board_lower_text{
+    text-align: center; 
+    color: #000000;
+    font-size: 12px;
+}
+.person-data-board_lower_price_text{
+    color: #FF0000;
+    font-size: 18px;
+}
+.person-data-board_lower_price_sm_text{
+    color: #FF0000;
+    font-size: 12px;
+}
+.person-data-board_lower_comment_text{
+    color: #3498DB;
+    font-size: 12px;
+}
+.person-data-board_lower_vote_text{
+    color: #27AE60;
+    font-size: 12px;
+}
+.btn-shadow{
+    box-shadow:3px 3px 8px #000000;
+}
+.pagination_part{
+    text-align: center; 
+}

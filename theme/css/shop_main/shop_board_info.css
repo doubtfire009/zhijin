@@ -1,0 +1,66 @@
+.border_color_off{
+    border:none;
+}
+
+.personal_item_category {
+  /*background-color: #E0E0E0;*/
+  background-color: #FFFFFF;
+  border:1px solid #E0E0E0;
+  /*border-top-style: none;*/
+  overflow: hidden;
+ 
+  width: auto;
+  height: auto;
+  padding: 5px;
+  margin: 10px 0 2px 2px;
+  
+  border-radius: 8px; 
+  
+}
+.personal_item {
+    margin: 10px 0 10px 0px;
+}
+
+
+.personal_item_category_level1,personal_item_category_level2,personal_item_category_level3{
+    border-bottom: 1px solid #E0E0E0;
+}
+.personal_item_category_text_level1{
+    font-size: 13px;
+}
+.personal_item_category_text_level2{
+    font-size: 11px;
+    margin-left: 10px;
+}
+.personal_item_category_text_level3{
+    font-size: 8px;
+    margin-left: 20px;
+}
+
+.achievement_badge{
+/*    margin-top: -20px;*/
+    font-size: 10px;
+    text-align: right;
+    
+}
+
+.skimmer_comment_category{
+    background-color: #FFFFFF;
+  border:1px solid #E0E0E0;
+  /*border-top-style: none;*/
+  overflow: hidden;
+ 
+  width: auto;
+  height: auto;
+  padding: 5px;
+  margin: 0px;
+
+  border-radius: 8px; 
+}
+
+.skimmer_comment_category_divider{
+    align: center;
+    width:auto; 
+    color:#987cb9; 
+    size:1;
+}
